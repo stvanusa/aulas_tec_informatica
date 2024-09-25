@@ -1,0 +1,31 @@
+Comandos 
+
+Prompt de comando
+mkdir
+cd
+dir
+cls
+copy
+del
+
+Terminal Git Bash
+cd
+ls
+echo ~ dirtorio corrente
+clear- atalho é CTrl +L
+
+gig init 
+git config --global user.name "Fulano da Silva"
+git config --global user.email fulanodasilva.git@gmail.com
+
+git status
+git add
+git commit -m " mensagem"
+
+git log
+git remote add origin https://github.com/fulanodasilva/citacoes/
+commits/master
+
+git push origin master
+
+Email: almirvagner.jr@gmail.com

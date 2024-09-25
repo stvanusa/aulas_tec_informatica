@@ -1,0 +1,9 @@
+Algoritmo Nome_Do_Usuario
+Var
+  Nome:Literal
+Inicio
+  Escreva("Qual é seu nome:");
+  Leia (nome);
+  Escreva (nome);
+Fim
+

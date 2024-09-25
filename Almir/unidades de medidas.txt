@@ -1,0 +1,13 @@
+8 bits= 1 byte 
+1.024 bytes = 1 Kilobyte
+1.024 Kb= 1 megabyte
+1.024 mb= 1 gigabyte
+1.024 gb= 1 terabyte
+
+
+
+b minusculo é bits
+B maiusculo é Byte
+k mil
+
+
